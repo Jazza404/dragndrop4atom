@@ -1,0 +1,11 @@
+{
+  "name": "simple-drag-drop-text",
+  "main": "./lib/simple-drag-drop-text",
+  "version": "0.6.0",
+  "description": "Adds basic drag and drop text feature to Atom editor.",
+  "repository": "https://github.com/geoffthibeau/simple-drag-drop-text",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.59.0"
+  }
+}
